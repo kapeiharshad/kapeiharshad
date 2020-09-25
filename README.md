@@ -16,6 +16,8 @@
   <img width="250" src="./thankyou.gif">
 </p>
 
+⚡ Fun fact :stuck_out_tongue_winking_eye: :  There is a GPS chip inside Rs 2000:dollar: note :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::sweat_smile: ...
+
 <!--
 **kapeiharshad/kapeiharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
