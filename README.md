@@ -3,7 +3,10 @@
   <img width="250" src="./source.gif">
 </p>
 
-### Hi there 👋
+### Howdy, I'm Harshad Kapei 👋 <br>
+<p>A passionate:fire: Full stack Software Developer <b>< / ></b>
+
+</p>
 
 <!--
 **kapeiharshad/kapeiharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
