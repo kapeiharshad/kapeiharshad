@@ -1,10 +1,9 @@
-
 <p align="center">
   <img width="250" src="./source.gif">
 </p>
 
-### Howdy, I'm Harshad Kapei 👋 <br>
-<p>A passionate:fire: Full stack Software Developer <b>< / ></b>
+<h4 align="center"> Howdy, I'm Harshad Kapei 👋 <br> </h4>
+<p align="center">A passionate:fire: Full stack Software Developer <b>< / ></b> coding for a better world :earth_asia: .
 
 </p>
 
