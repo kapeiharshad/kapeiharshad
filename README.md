@@ -12,6 +12,10 @@
   :briefcase: LinkedIn: http://www.linkedin.com/in/harshadkapei
 </p> 
 
+<p align="center">
+  <img width="250" src="./thankyou.gif">
+</p>
+
 <!--
 **kapeiharshad/kapeiharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
