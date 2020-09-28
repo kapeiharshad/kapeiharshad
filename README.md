@@ -13,7 +13,7 @@
 </p> 
 
 <p align="center">
-  <img width="250" src="./thankyou.gif">
+  <img width="250" src="./thanksImg.png">
 </p>
 
 ⚡ Fun fact : <i>Basic's of <b>"English"</b> :sunglasses: is the only thing you needed to learn a programing language :computer:.</i>
