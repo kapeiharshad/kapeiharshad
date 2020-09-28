@@ -16,7 +16,7 @@
   <img width="250" src="./thankyou.gif">
 </p>
 
-⚡ Fun fact : <i>Basic's of <b>"English"</b> :sunglasses:</i> is the only thing you needed to learn a programing language :computer:.
+⚡ Fun fact : <i>Basic's of <b>"English"</b> :sunglasses: is the only thing you needed to learn a programing language :computer:.</i>
 
 <!--
 **kapeiharshad/kapeiharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
