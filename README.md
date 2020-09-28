@@ -4,7 +4,7 @@
 
 <h4 align="center"> Howdy, I'm Harshad Kapei 👋 <br> </h4>
 <p align="center">
-  A passionate:fire: Full stack Software Developer <b>< {} ></b> coding for a better world :earth_asia: <br>
+  A passionate:fire: Full stack Software Developer <b>< {} ></b> coding for a better world :earth_asia:. <br>
   Loves :hearts: to code on MEAN,MERN and MEVN stacks.... </br>
   🌱 I'm currently learning:notebook: React.js, Advance Node.js.<br>
   👯 I’m looking to collaborate on ... MEAN,MERN and MEVN stacks.<br>
@@ -16,7 +16,7 @@
   <img width="250" src="./thankyou.gif">
 </p>
 
-⚡ Fun fact : <i>Basic <b>"English"</b> :sunglasses:</i> is the only thing you needed to learn a programing language.
+⚡ Fun fact : <i>Basics of <b>"English"</b> :sunglasses:</i> is the only thing you needed to learn a programing language :computer:.
 
 <!--
 **kapeiharshad/kapeiharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
