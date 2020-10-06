@@ -2,7 +2,7 @@
   <img width="250" src="./source.gif">
 </p>
 
-<h4 align="center"> Howdy, I'm Harshad Kapei 👋 lives in Mumbai,India.</h4> <br>
+<h4 align="center"> Howdy, I'm Harshad Kapei 👋 lives in Mumbai, India.</h4> <br>
 <p align="center">
   A passionate:fire: Full stack Software Developer <b>< {} ></b> coding for a better world :earth_asia:. <br>
   Loves :hearts: to code on MEAN,MERN and MEVN stacks.... </br>
