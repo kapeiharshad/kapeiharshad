@@ -4,14 +4,14 @@
 
 <h4 align="center"> Howdy, I'm Harshad Kapei 👋 lives in Mumbai, India.</h4> <br>
 <p align="center">
-  A passionate:fire: Full stack Software Developer <b>< {} ></b> coding for a better world :earth_asia:. <br>
+  A passionate:fire: Software Developer <b>< {} ></b> coding for a better world :earth_asia:. <br>
   Loves :hearts: to code on MEAN,MERN and MEVN stacks.... </br>
   🌱 I'm currently learning:notebook: React.js, Advance Node.js.<br>
   👯 I’m looking to collaborate on ... MEAN,MERN and MEVN stacks.<br>
   :mailbox: <b>kapeiharshad@gmail.com</b><br>
   :briefcase: LinkedIn: http://www.linkedin.com/in/harshadkapei
 </p> 
-
+ 
 <p align="center">
   <img width="250" height="150" src="./thanksImg.png">
 </p>
