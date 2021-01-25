@@ -6,8 +6,8 @@
 <p align="center">
   A passionate:fire: Software Developer <b>< {} ></b> coding for a better world :earth_asia:. <br>
   Loves :hearts: to code on MEAN,MERN and MEVN stacks.... </br>
-  🌱 I'm currently learning:notebook: React.js, Advance Node.js.<br>
-  👯 I’m looking to collaborate on ... MEAN,MERN and MEVN stacks.<br>
+<!--   🌱 I'm currently learning:notebook: React.js, Advance Node.js.<br>
+  👯 I’m looking to collaborate on ... MEAN,MERN and MEVN stacks.<br> -->
   :mailbox: <b>kapeiharshad@gmail.com</b><br>
   :briefcase: LinkedIn: http://www.linkedin.com/in/harshadkapei
 </p> 
